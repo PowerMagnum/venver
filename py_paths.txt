@@ -1,0 +1,2 @@
+3.9 "C:\msys64\mingw64\bin\python.exe"
+3.10 "C:\Users\salvo\AppData\Local\Programs\Python\Python310\python.exe"
